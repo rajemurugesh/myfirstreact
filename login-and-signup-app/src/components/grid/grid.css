@@ -1,0 +1,64 @@
+.grid{
+  
+  padding-top: 500px;
+}
+.grid-container{
+  top:60px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 10px 10px;
+  padding: 3px;
+  width: 370px;
+}
+.grid-item1{
+  background-color: rgba(142, 71, 0, 1);
+  border: 4px solid rgba(255,255,255, 0.9);
+  height: 25vh;
+  padding:25px;
+  padding-left: 10px;
+  width: 100%;
+  font-size: 25px;
+  text-align: center;
+}
+.grid-item2{
+  background-color: rgba(0,90,153, 1);
+  border: 4px solid rgba(255,255,255, 0.9);
+  height: 25vh;
+  padding:25px;
+  width:100%;
+  font-size: 25px;
+  text-align: center;
+}
+.grid-item3{
+  background-color: rgba(91,194,54, 1);
+  border: 4px solid rgba(255,255,255, 0.9);
+  height: 25vh;
+  padding:25px;
+  font-size: 25px;
+  text-align: center;
+}
+.grid-item4{
+  background-color: rgba(91,194,54, 1);
+  border: 4px solid rgba(255,255,255, 0.9);
+  height: 25vh;
+  padding:25px;
+  width:100%;
+  font-size: 25px;
+  text-align: center;
+}
+.grid-item5{
+  background-color: rgba(242,163,61, 1);
+  border: 4px solid rgba(255,255,255, 0.9);
+  height: 25vh;
+  padding:25px;
+  font-size: 25px;
+  text-align: center;
+}
+.grid-item6{
+  background-color: rgba(242,242,0, 1);
+  border: 4px solid rgba(255,255,255, 0.9);
+  height: 25vh;
+  padding:25px;
+  font-size: 25px;
+  text-align: center;
+}
